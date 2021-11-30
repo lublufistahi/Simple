@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- File Name: Menu banketni zal.xml -->
+<?xml-stylesheet type="text/css" href="MenuSettings.css"?>
+<MenuSettings>
+
+<TITLE>Банкетное меню</TITLE>
+<LINE>—————————————————————————————————————————————</LINE>
+<SUBTITLE>Парадные банкетные блюда</SUBTITLE>
+<MENUPOSITION>
+<DISH>Бестер, приготовленный в пряных травах</DISH>
+<SERVING>Подается со сливочно-икорным соусом</SERVING>
+<WEIGHT>1000 г</WEIGHT>
+<PRICE>7900 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Судак, фаршированный кнелью из семги, приготовленный в парах шампанского</DISH>
+<SERVING>Подается с соусом «Тар-тар»</SERVING>
+<WEIGHT>1000 г</WEIGHT>
+<PRICE>7500 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Форель, запеченая целиком</DISH>
+<SERVING>Подается в морской соли</SERVING>
+<WEIGHT>1000 г</WEIGHT>
+<PRICE>6500 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Телячья нога, выдержанная в маринаде из меда и хрена, запеченная с зернами горчицы</DISH>
+<SERVING>Подается с соусом из боровиков</SERVING>
+<WEIGHT>1000 г</WEIGHT>
+<PRICE>7900 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Нога баранья, маринованная и запеченная</DISH>
+<SERVING>Подается с ягодно-цитрусовым соусом</SERVING>
+<WEIGHT>1000 г</WEIGHT>
+<PRICE>6700 руб.</PRICE>
+</MENUPOSITION>
+<LINE>—————————————————————————————————————————————</LINE>
+<SUBTITLE>Фуршетное меню</SUBTITLE>
+<MENUPOSITION>
+<DISH>Валован с красной икрой</DISH>
+<SERVING>цена за 1 шт</SERVING>
+<WEIGHT>10 г</WEIGHT>
+<PRICE>300 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Профитроль с лососем с/с</DISH>
+<SERVING>цена за 1 шт</SERVING>
+<WEIGHT>25 г</WEIGHT>
+<PRICE>180 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Профитроль с сыром буко, маскарпоне</DISH>
+<SERVING>цена за 1 шт</SERVING>
+<WEIGHT>25 г</WEIGHT>
+<PRICE>180 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Шпажка с сырным шариком, медом и виноградом</DISH>
+<SERVING>цена за 1 шт</SERVING>
+<WEIGHT>20 г</WEIGHT>
+<PRICE>180 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Шпажка с помидором черри и мини-моцарелла</DISH>
+<SERVING>цена за 1 шт</SERVING>
+<WEIGHT>20 г</WEIGHT>
+<PRICE>180 руб.</PRICE>
+</MENUPOSITION>
+<LINE>—————————————————————————————————————————————</LINE>
+<SUBTITLE>Холодные закуски</SUBTITLE>
+<MENUPOSITION>
+<DISH>Рыбное ассорти</DISH>
+<SERVING>Осетрина г/к, семга с/с, масляная рыба х/к, сиг х/к. Подается с маслинами, оливками и лимоном</SERVING>
+<WEIGHT>100/15/15/20 г</WEIGHT>
+<PRICE>1300 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Рулет с семгой</DISH>
+<SERVING>Рулет с семгой и сливочным сыром в бисквите из шпината</SERVING>
+<WEIGHT>130 г</WEIGHT>
+<PRICE>650 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Сиг холодного копчения</DISH>
+<SERVING>Нарезанное филе рыбы Сиг</SERVING>
+<WEIGHT>100 г.</WEIGHT>
+<PRICE>850 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Муксун копченый</DISH>
+<SERVING>Нарезанное филе рыбы Муксун</SERVING>
+<WEIGHT>100 г</WEIGHT>
+<PRICE>850 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Чир копченый</DISH>
+<SERVING>Нарезанное филе рыбы Чир</SERVING>
+<WEIGHT>100 г</WEIGHT>
+<PRICE>850 руб.</PRICE>
+</MENUPOSITION>
+<LINE>—————————————————————————————————————————————</LINE>
+<SUBTITLE>Салаты</SUBTITLE>
+<MENUPOSITION>
+<DISH>Салат с телячим языком, баклажанами, шампиньонами, свежими помидорами, солеными огурцами и вялеными томатами</DISH>
+<SERVING>Заправляется майонезом</SERVING>
+<WEIGHT>200 г</WEIGHT>
+<PRICE>890 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Салат «А ля Русия»</DISH>
+<SERVING>с говяжьей вырезкой, жареными шампиньонами, черносливом и чесночным соусом</SERVING>
+<WEIGHT>200 г</WEIGHT>
+<PRICE>740 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Салат «Перепелиное гнездышко»</DISH>
+<SERVING>Нарезанное филе рыбы СигТелячий язык, ветчина, говядина запеченая, перепелиные яйца, сыр, свежий огурец</SERVING>
+<WEIGHT>200 г</WEIGHT>
+<PRICE>780 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Салат «Особый»</DISH>
+<SERVING>Телячий язык, свежий огурец, яйцо, сыр Заправляется майонезом</SERVING>
+<WEIGHT>170 г</WEIGHT>
+<PRICE>700 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Салат из телятины с копченым сыром</DISH>
+<SERVING>Кусочки телятины, сыр Сулугуни копченный, свежий огурец, груша Заправляется растительным маслом с кедровым орехом</SERVING>
+<WEIGHT>200 г</WEIGHT>
+<PRICE>750 руб.</PRICE>
+</MENUPOSITION>
+<LINE>—————————————————————————————————————————————</LINE>
+<SUBTITLE>Горячие закуски</SUBTITLE>
+<MENUPOSITION>
+<DISH>«Фуэте» из семги и судака</DISH>
+<SERVING>Кусочки семги и судака в сливочном соусе с сыром, запеченные в корзинке из слоеного теста</SERVING>
+<WEIGHT>90 г</WEIGHT>
+<PRICE>560 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Террин лососевый</DISH>
+<SERVING>Кусочки семги и судака в сливочном соусе с сыром, запеченные в корзинке из слоеного теста</SERVING>
+<WEIGHT>90 г</WEIGHT>
+<PRICE>560 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Фрикассе из курицы</DISH>
+<SERVING>Кусочки куриного филе в сливочном соусе с сыром, запеченные в корзинке из слоеного теста</SERVING>
+<WEIGHT>90 г.</WEIGHT>
+<PRICE>570 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Спринг ролл с креветкой, манго, авокадо и сладким соусом чили</DISH>
+<SERVING>1 шт </SERVING>
+<WEIGHT>50 г./ 20 г</WEIGHT>
+<PRICE>250 руб.</PRICE>
+</MENUPOSITION>
+<MENUPOSITION>
+<DISH>Спринг ролл с курицей, овощами и сладким соусом чили</DISH>
+<SERVING>Спринг ролл с курицей, овощами и сладким соусом чили</SERVING>
+<WEIGHT>(120 г.) / 30 г</WEIGHT>
+<PRICE>390 руб.</PRICE>
+</MENUPOSITION>
+<LINE>—————————————————————————————————————————————</LINE>
+</MenuSettings>
